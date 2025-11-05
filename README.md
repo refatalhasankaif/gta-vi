@@ -5,14 +5,8 @@ A visually immersive website inspired by the GTA VI theme, built with modern web
 ## 🚀 Technologies Used
 
 - React.js
-- React Router
 - TailwindCSS
 - GSAP
-- React Icons
-- Remix Icons
-- Custom Fonts
-
-## ⚠️ This project is not Responsive
 
 ## 🌐 Live
 
@@ -24,4 +18,3 @@ A visually immersive website inspired by the GTA VI theme, built with modern web
 ## 🖼️ Preview
 
 ![Preview](./src/assets/preview.png)  
-

@@ -1,0 +1,22 @@
+[
+  { "id": 1, "url": "/g1.jpg", "title": "High-Speed Chase", "description": "Push your driving skills to the limit in epic pursuits" },
+  { "id": 2, "url": "/g2.jpg", "title": "Underground Racing", "description": "Join the illegal street racing circuit across the city" },
+  { "id": 3, "url": "/g3.jpg", "title": "Nightclub Takeover", "description": "Expand your influence in the city's nightlife" },
+  { "id": 4, "url": "/g4.jpg", "title": "Luxury Vehicles", "description": "Collect and customize the fastest and rarest cars" },
+  { "id": 5, "url": "/g5.jpg", "title": "Bank Heist", "description": "Plan and execute high-stakes robberies with precision" },
+  { "id": 6, "url": "/g6.jpg", "title": "Exotic Locations", "description": "Travel through vibrant districts and scenic landmarks" },
+  { "id": 7, "url": "/g7.jpg", "title": "Weapons Arsenal", "description": "Access a wide range of firearms and gadgets" },
+  { "id": 8, "url": "/g8.jpg", "title": "Gang Wars", "description": "Dominate rival factions to control territories" },
+  { "id": 9, "url": "/g9.jpg", "title": "Custom Outfits", "description": "Express your style with unique clothing and accessories" },
+  { "id": 10, "url": "/g10.jpg", "title": "Aerial Stunts", "description": "Take to the skies with planes and helicopters" },
+  { "id": 11, "url": "/g11.jpg", "title": "Underwater Exploration", "description": "Discover hidden treasures beneath the waves" },
+  { "id": 12, "url": "/g12.jpg", "title": "Armored Vehicles", "description": "Drive heavily fortified cars for extreme protection" },
+  { "id": 13, "url": "/g13.jpg", "title": "City Rampage", "description": "Unleash chaos in the urban streets with style" },
+  { "id": 14, "url": "/g14.jpg", "title": "Helicopter Assault", "description": "Engage in high-altitude combat missions" },
+  { "id": 15, "url": "/g15.jpg", "title": "Biker Gangs", "description": "Join outlaw motorcycle clubs and rule the roads" },
+  { "id": 16, "url": "/g16.jpg", "title": "Luxury Penthouse", "description": "Own lavish apartments overlooking the cityscape" },
+  { "id": 17, "url": "/g17.jpg", "title": "Exotic Animals", "description": "Encounter wildlife in hidden areas of the map" },
+  { "id": 18, "url": "/g18.jpg", "title": "Corporate Espionage", "description": "Infiltrate rival businesses for profit and intel" },
+  { "id": 19, "url": "/g19.jpg", "title": "Street Art", "description": "Decorate the city with colorful murals and graffiti" },
+  { "id": 20, "url": "/g20.jpg", "title": "Secret Missions", "description": "Unlock hidden quests and challenges across the map" }
+]

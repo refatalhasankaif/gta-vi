@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Jason Duval",
+    "image": "jason.jpg",
+    "description": "Ex-Army now tied to drug runners; meeting Lucia changes everything."
+  },
+  {
+    "id": 2,
+    "name": "Lucia Caminos",
+    "image": "lucia.jpg",
+    "description": "Ex-con raised to fight; determined to build a better life."
+  },
+  {
+    "id": 3,
+    "name": "Boobie Ike",
+    "image": "/boobie-ike.jpg",
+    "description": "Vice City legend running real estate, strip club, studio."
+  },
+  {
+    "id": 4,
+    "name": "Brian Heder",
+    "image": "brian-heder.jpg",
+    "description": "Veteran smuggler; gives Jason a place if he helps with jobs."
+  },
+  {
+    "id": 5,
+    "name": "Cal Hampton",
+    "image": "cal-hampton.jpg",
+    "description": "Jason’s paranoid buddy listening to Coast Guard signals."
+  },
+  {
+    "id": 6,
+    "name": "Dre'Quan Priest",
+    "image": "drequan-priest.jpg",
+    "description": "Hustler turned music-label partner at Only Raw Records."
+  },
+  {
+    "id": 7,
+    "name": "Raul Bautista",
+    "image": "raul-bautista.jpg",
+    "description": "Seasoned bank robber chasing bigger risks."
+  },
+  {
+    "id": 8,
+    "name": "Bae-Luxe",
+    "image": "bae-luxe.jpg",
+    "description": "Half of Real Dimez; rap plus social grind."
+  },
+  {
+    "id": 9,
+    "name": "Lori Heder",
+    "image": "drequan-priest.jpg",
+    "description": "Brian’s wife; comfortable with guns around the boat yard."
+  },
+  {
+    "id": 10,
+    "name": "Phil",
+    "image": "phil.jpg",
+    "description": "Ammu-Nation rep; maybe a new Phil Cassidy."
+  },
+  {
+    "id": 11,
+    "name": "Roxy",
+    "image": "roxy.jpg",
+    "description": "Other half of Real Dimez; signed to Only Raw Records."
+  },
+  {
+    "id": 12,
+    "name": "Stefanie",
+    "image": "images_gta-6_characters_stefanie.webp",
+    "description": "Prison social worker who interviews Lucia."
+  },
+  {
+    "id": 13,
+    "name": "Crotch Grab Guy",
+    "image": "crotch-grab-guy.jpg",
+    "description": "Guy aggressively grabbing his crotch on video."
+  },
+  {
+    "id": 14,
+    "name": "Dad Bod Guy",
+    "image": "dad-bod.jpg",
+    "description": "Boat-party guy tagged by DadBodSquad."
+  },
+  {
+    "id": 15,
+    "name": "Gold Chain Guy",
+    "image": "gold-chain-guy.jpg",
+    "description": "Tattooed chain-wearer likely tied to gangs."
+  },
+  {
+    "id": 16,
+    "name": "Hammer Lady",
+    "image": "crazy-hammer-lady.jpg",
+    "description": "NPC wielding two hammers; inspired by a viral moment."
+  },
+  {
+    "id": 17,
+    "name": "High Rollerz Mag Guy",
+    "image": "mag-guy.jpg",
+    "description": "Brief High Rollerz Mag appearance."
+  },
+  {
+    "id": 18,
+    "name": "Leonida Joker",
+    "image": "leonida-joker.jpg",
+    "description": "Tattooed criminal inspired by the Florida Joker."
+  },
+  {
+    "id": 19,
+    "name": "Nightclub DJ",
+    "image": "dj-girl.jpg",
+    "description": "DJ performing in a Vice City club."
+  },
+  {
+    "id": 20,
+    "name": "Police Detective",
+    "image": "police-detective.jpg",
+    "description": "Detective possibly investigating Jason and Lucia."
+  },
+  {
+    "id": 21,
+    "name": "Rudi",
+    "image": "rudi.jpg",
+    "description": "Car-stunt victim referenced as RIP."
+  },
+  {
+    "id": 22,
+    "name": "Selfie Guy",
+    "image": "selfie-guy.jpg",
+    "description": "Seen around Jason and Lucia; recurring."
+  },
+  {
+    "id": 23,
+    "name": "Shanese",
+    "image": "shanese.jpg",
+    "description": "Social profile figure rumored close to Lucia."
+  },
+  {
+    "id": 24,
+    "name": "Thrillbilly Mud Girl",
+    "image": "thrillbilly-mud-girl.jpg",
+    "description": "Mud-covered party girl flashing horns."
+  }
+]
