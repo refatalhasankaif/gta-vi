@@ -198,7 +198,7 @@ const App = () => {
                     </div>
 
                     <div className="landing overflow-hidden w-full h-screen">
-                        <div className="navbar fixed z-50 flex items-center justify-between px-4 sm:px-8 md:px-12 lg:px-20 py-6 sm:py-8 md:py-10 w-full top-0 left-0 bg-gradient-to-b from-black/80 to-transparent">
+                        <div className="navbar fixed z-50 flex items-center justify-between px-4 sm:px-8 md:px-12 lg:px-20 py-6 sm:py-8 md:py-10 w-full top-0 left-0 bg-linear-to-b from-black/80 to-transparent">
                             <div className="logo">
                                 <h1 className="text-2xl sm:text-3xl md:text-4xl text-white">
                                     <a href="https://www.rockstargames.com/" target="_blank" rel="noopener noreferrer">
@@ -293,7 +293,7 @@ const App = () => {
                             </div>
                         </div>
 
-                        <div className="btmbar z-20 items-end justify-end flex flex-col absolute bottom-0 h-32 sm:h-40 md:h-44 lg:h-50 w-full px-4 sm:px-6 md:px-10 py-3 sm:py-4 bg-gradient-to-t from-black to-transparent">
+                        <div className="btmbar z-20 items-end justify-end flex flex-col absolute bottom-0 h-32 sm:h-40 md:h-44 lg:h-50 w-full px-4 sm:px-6 md:px-10 py-3 sm:py-4 bg-linear-to-t from-black to-transparent">
                             <div
                                 className="flex hover:cursor-pointer animate-bounce gap-1 items-center text-white text-base sm:text-lg md:text-xl lg:text-2xl"
                                 onClick={() => footerRef.current?.scrollIntoView({ behavior: "smooth" })}
